@@ -7,6 +7,8 @@ Claude 4 models follow instructions precisely. Request behaviors explicitly:
 - **Less effective:** "Create an analytics dashboard"
 - **More effective:** "Create an analytics dashboard. Include relevant features and interactions. Go beyond the basics."
 
+### Ask to review by becoming expert
+- "adopt the persona of an expert in this field"
 ### Provide Context
 Explain *why* behind instructions for better results:
 - **Less effective:** "NEVER use ellipses"
@@ -164,3 +166,5 @@ After completing a task involving tool use, provide a quick summary of the work 
 
 ### Thinking Sensitivity
 Claude Opus 4.5 is sensitive to "think" when extended thinking is disabled. Use alternatives: "consider", "believe", "evaluate".
+
+
